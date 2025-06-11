@@ -1,1 +1,3 @@
 esse arquivo contém comandos de arquivos git
+
+#comandos mais genéricos
