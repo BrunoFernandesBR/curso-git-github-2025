@@ -6,3 +6,5 @@ Aprendendo GitFlow e VS.
 
 
 Segue link 2025
+
+Se liga no canal do yg
